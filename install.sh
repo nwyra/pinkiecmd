@@ -1,5 +1,5 @@
 #!/bin/bash
-pink='echo -ne "\033]11;#F48FB1\007\033]10;#FCE4EC\007\033]12;#F8BBD0\007"'
+pink='echo -ne "\033]11;#F48FB1\007\033]12;#F8BBD0\007"; export PS1="\[\033[38;2;248;187;208m\]\u@\h \[\033[38;2;244;143;177m\]\w\[\033[0m\]\$ "'
 if [ -n "$ZSH_VERSION" ] || [ "$(basename "$SHELL")" = "zsh" ]; then
     conf="$HOME/.zshrc"
 else
