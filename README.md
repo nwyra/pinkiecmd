@@ -14,8 +14,8 @@ cd pinkiecmd
 chmod +x install.sh
 ./install.sh
 ```
-
-run `source ~/.bashrc` / `source ~/.zshrc`
+option 1 : Restart terminal
+option 2 : Run : `source ~/.bashrc` / `source ~/.zshrc`
 
 ## Uninstall
 
