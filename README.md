@@ -9,8 +9,8 @@
 ## Install
 
 ```bash
-git clone https://github.com/nwyra/pinkie.git
-cd pinkie
+git clone https://github.com/nwyra/pinkiecmd.git
+cd pinkiecmd
 chmod +x install.sh
 ./install.sh
 ```
