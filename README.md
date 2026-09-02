@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/nwyra/Pinkiecmd.git
+git clone https://github.com/nwyra/pinkiecmd.git
 cd pinkify
 chmod +x install.sh
 ./install.sh
