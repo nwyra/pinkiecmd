@@ -15,6 +15,7 @@ chmod +x install.sh
 ./install.sh
 ```
 option 1 : Restart terminal
+
 option 2 : Run : `source ~/.bashrc` / `source ~/.zshrc`
 
 ## Uninstall
